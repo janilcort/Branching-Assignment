@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PackageExpress
 {
@@ -49,3 +49,4 @@ namespace PackageExpress
         }
     }
 }
+
